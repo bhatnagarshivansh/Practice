@@ -5,5 +5,8 @@ public class HelloWorld {
       Scanner kb=new Scanner(System.in);
       int n=kb.nextInt();
       System.out.println(n);
+      String name=kb.nextLine();
+      System.out.println(name);
+  
   }
   }
